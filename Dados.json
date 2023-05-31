@@ -1,6 +1,6 @@
 [
     {
-        "Nome": "Jéssica",
+        "Nome": "Paula",
         "Peso": 47,
         "Altura": 1.54,
         "Gordura": 17,
@@ -8,9 +8,9 @@
     },
 
     {
-        "Nome": "Flavio",
+        "Nome": "Bruno",
         "Peso": 70,
-        "Altura": 1.7,
+        "Altura": 1.70,
         "Gordura": 17,
         "IMC": 24.22
     },
@@ -18,17 +18,17 @@
     {
         "Nome": "Teresa",
         "Peso": 60,
-        "Altura": 1.7,
+        "Altura": 1.72,
         "Gordura": 13,
-        "IMC": 20.76
+        "IMC": 20.28
     },
 
     {
         "Nome": "Marina",
         "Peso": 75,
-        "Altura": 1.7,
+        "Altura": 1.77,
         "Gordura": 26,
-        "IMC": 25.95
+        "IMC": 23.94
     },
 
     {
@@ -37,6 +37,14 @@
         "Altura": 1.25,
         "Gordura": 10,
         "IMC": 14.72
+    },
+
+    {
+        "Nome": "Carlos",
+        "Peso": 120,
+        "Altura": 2.03,
+        "Gordura": 23,
+        "IMC": 29.12
     }
 
 ]
